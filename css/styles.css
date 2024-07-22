@@ -83,7 +83,7 @@ img {
   padding: 24px 0;
 }
 .header-nav-link {
-  transition: box-shadow color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .header-nav-link.inline::after {
   content: "";
